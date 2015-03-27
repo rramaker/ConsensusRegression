@@ -1,0 +1,8 @@
+Package: ConsensusRegression
+Title: Finding Robust Methylation Markers via Resampling
+Version: 0.0.0.9000
+Author: Ryne Ramaker <rramaker@uab.edu>
+Description: This package employs resampling techniques to help identify robust methylation markers.
+Depends: R (>= 3.1.2)
+License: Artisitic 2.0
+LazyData: true
